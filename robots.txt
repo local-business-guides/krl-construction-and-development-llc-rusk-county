@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/sitemap.xml
+Sitemap: https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/news-sitemap.xml

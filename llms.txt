@@ -30,6 +30,9 @@
 - [Home Builder Longview TX Rusk County](https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/home-builder-longview-tx-rusk-county/): Need a home builder in Longview, TX, serving Rusk County? Plan your custom home with KRL Construction & Development, LLC. Call today.
 - [Construction Company Rusk County](https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/construction-company-rusk-county/): Choose a construction company in Rusk County for a clear project scope and practical next steps. Talk with KRL Construction & Development, LLC today.
 
+## Newsroom
+- [KRL Construction Shares Longview Home Building Guide and Audio Features](https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/news/2026-11-06-krl-construction-shares-longview-home-building/): KRL Construction & Development published a guide on home building in Longview, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Home Builder Longview TX in Rusk County](https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/): Build a home shaped around your needs with a local team serving Rusk County. Call +1903-930-3569.
 - [About KRL Construction & Development](https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/about/): About KRL Construction & Development, LLC, Rusk County.
@@ -37,4 +40,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/krl-construction-and-development-llc-rusk-county/news/rss.xml)
 - [Main resource site](https://krl-construction-rusk-county.localbusinesses1.chatgpt.site)
